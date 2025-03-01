@@ -1,6 +1,6 @@
 Hello Human.
 Welcome to the Bazinga world of coding
-For safety reasons, I cast: BRAZIL! (Disable Warping to see it)
+For safety reasons, I cast: BRAZIL! (Switch to RAW mode to see the picture)
 ⣿⣿⣿⣿⣿⣿⣿⡿⠿⡿⠛⠛⠻⠛⠋⠍⡉⢋⠙⠙⠛⠿⠛⠛⠻⠻⡿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠋⠋
 ⣿⡿⠿⠛⢉⠉⡀⠄⡐⢀⢂⣁⢂⡡⢌⡰⣀⠆⡌⢤⣁⢂⡌⡐⡠⠁⠄⠂⠄⡈⠠⢀⠉⢋⠉⡙⠻⠛⠛⠿⠿⢿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠟⠛⠛⢉⠁⠄⡐⠠⢁⠘
 ⠉⢀⠐⣈⢄⠲⡐⢎⡜⡡⢎⡔⢣⠜⣢⠱⣌⠚⡜⢢⠜⡢⢜⡡⢣⡙⢬⡙⠦⣑⠒⠦⡌⢤⢂⠤⣁⢂⡁⢂⡐⠠⢀⠂⠄⠠⢀⠐⠠⠀⠄⠠⢀⠂⡐⢈⢄⡁⠦⣌⠲⣡⠃⠄⡈
